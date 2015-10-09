@@ -1,3 +1,6 @@
+# About
+This is a clone of the official FTC Robot Controller App. This clone will be maintained by FTC Alumni, Teams and Mentors from around Florida.
+
 # ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
 
